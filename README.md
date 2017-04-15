@@ -66,6 +66,8 @@ pip install keras
 ```
 
 ### Step 10: Testing
+You can run the following <a href="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/examples/mnist_mlp.py">mnist_mlp.py</a> in your prompt.
+
 ```Python
 '''Trains a simple deep NN on the MNIST dataset.
 Gets to 98.40% test accuracy after 20 epochs
