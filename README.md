@@ -23,6 +23,9 @@ Membership registration is required.
 <p align="center"><img width=70% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/cuDNN_windows_download.png"></p>
 
 ### Step 5: Add cuDNN into Environment PATH
+Windows 10:
+Control Panel -> System -> Advanced System Setting -> Advanced -> Environment Variables
+
 ### C:\Users\Antonio\cudnn-8.0-windows10-x64-v5.1\cuda\bin
 ### echo %PATH%
 
