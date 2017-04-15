@@ -11,7 +11,13 @@ conda update conda
 conda update --all
 ```
 
-### Step 3: Install CUDA
+### Step 3: Install CUDA 8.0 
+Choose your version depending on your Operating System
+
+<p align="center"><img width=60% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/cuda8_windows7_local_installation.png"></p>
+
+
+
 ### Step 4: Install cuDNN
 
 ### Add cuDNN into Enviroment PATH
