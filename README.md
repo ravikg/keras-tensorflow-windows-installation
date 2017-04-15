@@ -1,7 +1,9 @@
 # keras-tensorflow-windows-installation
 This is a repository for tutoring the installation of Keras and Tensorflow in Windows
 
-### Step 1: Install Anaconda x64.
+### Step 1: Install Anaconda (Python 3.6 version)
+<p align="center"><img width=60% src="https://github.com/anfederico/Clairvoyant/blob/master/media/Clairvoyant.png"></p>
+<url>http://www.google.com</url>
 
 ### Step 2: Open the Anaconda prompt
 
