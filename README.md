@@ -26,7 +26,7 @@ Put your unzipped folder in C drive as follows:
 ```Command Prompt
 C:\cudnn-8.0-windows10-x64-v5.1
 ```
-### Step 5: Add cuDNN into Environment PATH
+### Step 5: Add cuDNN into Environment PATH <a href="https://kb.wisc.edu/cae/page.php?id=24500" target="_blank">Tutorial</a>
 
 Add the following path in your Environment.
 Subjected to changes in your installation path.
