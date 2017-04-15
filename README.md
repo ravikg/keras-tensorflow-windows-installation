@@ -1,9 +1,9 @@
 # keras-tensorflow-windows-installation
 This is a repository for tutoring the installation of Keras and Tensorflow in Windows
 
-## Install Anaconda x64.
+### Step 1: Install Anaconda x64.
 
-## Open the Anaconda prompt
+### Step 2: Open the Anaconda prompt
 
 ```Command Prompt
 conda update conda
