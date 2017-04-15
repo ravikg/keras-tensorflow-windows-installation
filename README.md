@@ -34,8 +34,12 @@ Subjected to changes in your installation path.
 C:\cudnn-8.0-windows10-x64-v5.1\cuda\bin
 ```
 
-Turn off all the prompts. Type to
-### echo %PATH%
+Turn off all the prompts. 
+Open a new Anaconda Prompt to type the following command(s)
+```Command Prompt
+echo %PATH%
+```
+You shall see that the new Environment PATH is there.
 
 ### Step 6: Create an Anaconda environment with Python=3.5
 Open Anaconda Prompt to type the following command(s)
