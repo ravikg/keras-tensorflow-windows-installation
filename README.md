@@ -22,17 +22,19 @@ Membership registration is required.
 
 <p align="center"><img width=70% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/cuDNN_windows_download.png"></p>
 
+Put your unzipped folder in C drive as follows: 
+```Command Prompt
+C:\cudnn-8.0-windows10-x64-v5.1
+```
 ### Step 5: Add cuDNN into Environment PATH
 
-1. For Windows 7, open the Start Menu and right click on Computer. Select Properties. 
-For Windows 10, right click on the Start Menu and select System.
-2. Select Advanced system settings.
-3. In the Advanced tab, select Environment Variables.
-4. On the User variables, highlight Path and click Edit...
-5. Add the following path at the end
+Add the following path in your Environment.
+Subjected to changes in your installation path.
 ```Command Prompt
-;C:\Users\Antonio\cudnn-8.0-windows10-x64-v5.1\cuda\bin
+C:\cudnn-8.0-windows10-x64-v5.1\cuda\bin
 ```
+
+Turn off all the prompts. Type to
 ### echo %PATH%
 
 ### Step 6: Create an Anaconda environment with Python=3.5
