@@ -75,4 +75,4 @@ python mnist_mlp.py
 ```
 Congratulations ! You have successfully run Keras (with Tensorflow backend) over GPU on Windows !
 
-<p align="left"><img width=90% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/installation_success.png"></p>
+<p align="left"><img width=100% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/installation_success.png"></p>
