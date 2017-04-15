@@ -24,8 +24,14 @@ conda create -n tensorflow python=3.5 numpy scipy matplotlib
 # Activate tensorflow
 activate tensorflow
 
-# Install TensorFlow
+### Install TensorFlow-GPU-1.0.1
+```Command Prompt
 pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.0.1-cp35-cp35m-win_amd64.whl
+```
 
-# Install Keras
+### Install Keras
+```Command Prompt
 pip install keras
+```
+
+
