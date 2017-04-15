@@ -5,7 +5,7 @@ This is a repository for tutoring the installation of Tensorflow with GPU suppor
 <p align="center"><img width=70% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/anaconda_windows_installation.png"></p>
 
 ### Step 2: Update Anaconda
-Open Anaconda Prompt to type the following commands
+Open Anaconda Prompt to type the following command(s)
 ```Command Prompt
 conda update conda
 conda update --all
@@ -23,25 +23,25 @@ Choose your version depending on your Operating System
 ### echo %PATH%
 
 ### Step 6: Create an Anaconda environment with Python=3.5
-Open Anaconda Prompt to type the following commands
+Open Anaconda Prompt to type the following command(s)
 ```Command Prompt
 conda create -n tensorflow python=3.5 numpy scipy matplotlib
 ```
 
 ### Step 7: Activate the environment
-Open Anaconda Prompt to type the following commands
+Open Anaconda Prompt to type the following command(s)
 ```Command Prompt
 activate tensorflow
 ```
 
 ### Step 8: Install TensorFlow-GPU-1.0.1
-Open Anaconda Prompt to type the following commands
+Open Anaconda Prompt to type the following command(s)
 ```Command Prompt
 pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.0.1-cp35-cp35m-win_amd64.whl
 ```
 
 ### Step 9: Install Keras
-Open Anaconda Prompt to type the following commands
+Open Anaconda Prompt to type the following command(s)
 ```Command Prompt
 pip install keras
 ```
