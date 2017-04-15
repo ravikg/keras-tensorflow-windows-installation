@@ -126,3 +126,11 @@ score = model.evaluate(x_test, y_test, verbose=0)
 print('Test loss:', score[0])
 print('Test accuracy:', score[1])
 ```
+
+Congratulations ! You have successfully run Keras (with Tensorflow backend) over GPU on Windows !
+
+To simplify, next time, you can open Anaconda Prompt to type the following command(s)
+```Command Prompt
+activate tensorflow
+python mnist_mlp.py
+```
