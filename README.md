@@ -1,7 +1,7 @@
 # keras-tensorflow-windows-installation
 This is a repository for tutoring the installation of Keras and Tensorflow in Windows
 
-### Step 1: Install Anaconda (Python 3.6 version) <a href="https://www.continuum.io/downloads">Download</a>
+### Step 1: Install Anaconda (Python 3.6 version) <a href="https://www.continuum.io/downloads" target="_blank">Download</a>
 <p align="center"><img width=60% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/anaconda_windows_installation.png"></p>
 
 ### Step 2: Open the Anaconda prompt
