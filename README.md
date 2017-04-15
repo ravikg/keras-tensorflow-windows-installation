@@ -24,7 +24,8 @@ Membership registration is required.
 
 ### Step 5: Add cuDNN into Environment PATH
 
-1. For Windows 7, open the Start Menu and right click on Computer. Select Properties. For Windows 10, right click on the Start Menu and select System.
+1. For Windows 7, open the Start Menu and right click on Computer. Select Properties. 
+For Windows 10, right click on the Start Menu and select System.
 2. Select Advanced system settings.
 3. In the Advanced tab, select Environment Variables.
 4. On the User variables, highlight Path and click Edit...
