@@ -4,7 +4,7 @@ This is a repository for tutoring the installation of Tensorflow with GPU suppor
 ### Step 1: Install Anaconda (Python 3.6 version) <a href="https://www.continuum.io/downloads" target="_blank">Download</a>
 <p align="center"><img width=60% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/anaconda_windows_installation.png"></p>
 
-### Step 2: Update Anaconda through te Anaconda Prompt
+### Step 2: Open the Anaconda Prompt to Update Anaconda
 
 ```Command Prompt
 conda update conda
@@ -18,7 +18,7 @@ conda update --all
 ### C:\Users\Antonio\cudnn-8.0-windows10-x64-v5.1\cuda\bin
 ### echo %PATH%
 
-### Create a Python 3.5 environment
+### Open the Anaconda Prompt to Create a Python 3.5 environment
 ```Command Prompt
 conda create -n tensorflow python=3.5 numpy scipy matplotlib
 ```
