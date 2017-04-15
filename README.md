@@ -74,3 +74,5 @@ activate tensorflow
 python mnist_mlp.py
 ```
 Congratulations ! You have successfully run Keras (with Tensorflow backend) over GPU on Windows !
+
+<p align="center"><img width=70% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/installation_success.png"></p>
