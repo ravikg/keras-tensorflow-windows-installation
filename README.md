@@ -2,8 +2,9 @@
 This is a repository for tutoring the installation of Keras and Tensorflow in Windows
 
 ### Step 1: Install Anaconda (Python 3.6 version)
-<p align="center"><img width=60% src="https://github.com/anfederico/Clairvoyant/blob/master/media/Clairvoyant.png"></p>
-<url>http://www.google.com</url>
+<p align="center"><img width=60% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/anaconda_windows_installation.png"></p>
+
+<a href="url">Download</a>
 
 ### Step 2: Open the Anaconda prompt
 
@@ -12,8 +13,8 @@ conda update conda
 conda update --all
 ```
 
-# Install CUDA
-# Install cuDNN
+### Install CUDA
+### Install cuDNN
 
 # Add to PATH
 # C:\Users\Antonio\cudnn-8.0-windows10-x64-v5.1\cuda\bin
