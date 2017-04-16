@@ -1,5 +1,5 @@
 # Keras-TensorFlow-GPU-Windows-Installation
-This is a tutorial on the installation of TensorFlow-GPU and Keras in Windows
+10 easy steps on the installation of TensorFlow-GPU and Keras in Windows
 
 ### Step 1: Install Anaconda (Python 3.6 version) <a href="https://www.continuum.io/downloads" target="_blank">Download</a>
 <p align="center"><img width=70% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/anaconda_windows_installation.png"></p>
